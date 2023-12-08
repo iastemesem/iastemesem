@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @iastemesem
-- 👀 I’m interested in Android Devolpment
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Android and Flutter Devolpment
 - 📫 How to reach me: gianfrancolucci@gmail.com
